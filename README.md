@@ -80,7 +80,9 @@ Para validar que o assistente responde estritamente com base nos documentos carr
 
 ## 📸 Evidências do Chat (Citações das Fontes)
 
-Prints comprovando que as respostas foram extraídas diretamente dos documentos estão disponíveis nos arquivos deste repositório (print-chat-1, print-chat-2 e print-chat-3).
+![Evidência 1](print-chat-1.png)
+![Evidência 2](print-chat-2.png)
+![Evidência 3](print-chat-3.png)
 
 ---
 
